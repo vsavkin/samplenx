@@ -1,5 +1,11 @@
 {
   "npmScope": "samplenx",
   "projects": {
+    "myapp": {
+      "tags": []
+    },
+    "myapp-e2e": {
+      "tags": []
+    }
   }
 }
